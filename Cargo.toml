@@ -1,0 +1,10 @@
+[package]
+name = "ring-buffer-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Circular/ring buffer with SPSC lock-free variant, power-of-two sizing, and sliding window — pure Rust, no dependencies"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/ring-buffer-rs"
+keywords = ["ring-buffer", "circular-buffer", "spsc", "lock-free", "queue"]
+categories = ["data-structures", "algorithms", "no-std"]
+authors = ["SuperInstance"]
